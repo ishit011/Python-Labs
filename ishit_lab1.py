@@ -8,6 +8,7 @@ def check_palindrome(checklist):
         print(True)
     else:
        print(False)
+print("GITHUB DESKTOP")
 test_list = [[0,2,3,5,7,7,0],["Red", "Blue", "Green"],[1,0,0,1,0,0,1],
              ["Red", "Yellow", "Green", "Yellow", "Red"]]
 
